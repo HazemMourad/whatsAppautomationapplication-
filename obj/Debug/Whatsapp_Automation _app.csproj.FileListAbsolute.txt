@@ -1,0 +1,16 @@
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\bin\Debug\Whatsapp_Automation _app.exe.config
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\bin\Debug\Whatsapp_Automation _app.exe
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\bin\Debug\Whatsapp_Automation _app.pdb
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\obj\Debug\Whatsapp_Automation _app.csproj.AssemblyReference.cache
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\obj\Debug\Whatsapp_Automation__app.Form1.resources
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\obj\Debug\Whatsapp_Automation__app.Properties.Resources.resources
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\obj\Debug\Whatsapp_Automation _app.csproj.GenerateResource.cache
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\obj\Debug\Whatsapp_Automation _app.csproj.CoreCompileInputs.cache
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\obj\Debug\Whatsapp_Automation _app.exe
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\obj\Debug\Whatsapp_Automation _app.pdb
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\bin\Debug\WebDriver.dll
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\bin\Debug\WebDriver.Support.dll
+D:\Freelancing Working\Whatapp Automation\Whatsapp_Automation _app\obj\Debug\Whatsapp_Automation _app.csproj.CopyComplete
